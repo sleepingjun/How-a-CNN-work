@@ -1,4 +1,5 @@
 # Visualization CNN
+This was my freelance research assignments in January
 Visualizing Convolutional Neural Networks using weights and heatmap(grad-CAM and grad-CAM++).
 
 ## Intorduction
