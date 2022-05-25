@@ -1,5 +1,5 @@
 # Visualization CNN
-This was my freelance research assignments in January
+This was my freelance research assignment in January, 2021.\n
 Visualizing Convolutional Neural Networks using weights and heatmap(grad-CAM and grad-CAM++).
 
 ## Intorduction
