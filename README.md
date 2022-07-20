@@ -1,4 +1,4 @@
-# Visualization CNN
+# To visualize how a CNN works.
 This was my freelance research assignment in January, 2021.  
 Visualizing Convolutional Neural Networks using weights and heatmap(grad-CAM and grad-CAM++).
 
