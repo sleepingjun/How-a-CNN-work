@@ -1,4 +1,5 @@
-# To visualize how a CNN works.
+# To visualize how a CNN works.  
+For Chinese reader, there is a [Traditional Mandarin translation version](https://github.com/sleepingjun/How-a-CNN-work/blob/main/Traditional%20Mandarin%20doc.md).  
 This was my freelance research assignment in January, 2021.  
 Visualizing Convolutional Neural Networks using weights and heatmap(grad-CAM and grad-CAM++).
 
