@@ -1,6 +1,5 @@
 # To visualize how a CNN works.  
 For Chinese reader, there is a [Traditional Mandarin translation version](https://github.com/sleepingjun/How-a-CNN-work/blob/main/Traditional%20Mandarin%20doc.md).  
-If you find that colab link has broken, please contacting me by mail (yuchun.ni812@gmail.com). I will fix it.  
 
 This was my freelance research assignment in January, 2021.  
 Visualizing Convolutional Neural Networks using weights and heatmap(grad-CAM and grad-CAM++).
@@ -23,3 +22,7 @@ To visualize the model can help us to know the following things:
 ## Reference
   1. Grad-CAM: https://arxiv.org/abs/1610.02391
   2. Grad-CAM++: https://arxiv.org/abs/1710.11063
+
+## Others  
+If you find that colab link has broken, please contacting me by mail (yuchun.ni812@gmail.com). I will fix it.  
+If you are interesting in whole Traditional Mandarin report including code explanation and analysis result, you could see it [here](https://drive.google.com/file/d/1ZsimUzSOlDegLBrJxMok6df8sYyilb3W/view?usp=sharing).  
